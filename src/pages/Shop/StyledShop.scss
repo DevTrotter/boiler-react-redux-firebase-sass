@@ -1,0 +1,23 @@
+.container-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 15px;
+    width: 50%;
+    background-color: red;
+    height: 150px;
+}
+
+.container-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 15px;
+    width: 50%;
+    background-color: blue;
+    height: 150px;
+}
